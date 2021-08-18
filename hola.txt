@@ -1,7 +1,7 @@
-hola esta e smi historia 
+hola esta es mi historia 
 
 y esto es como le meto algo mas
 
-no subire esta cambio de primeraso
+no subire esta cambio de primer paso
 
-edite hola desde txt
+edite hola desde git hub
