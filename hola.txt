@@ -7,4 +7,9 @@ no subire esta cambio de primer paso
 edite hola desde git hub
 
 mater 1 clase rebase
+<<<<<<< HEAD
 master 2 
+=======
+
+experiment 1
+>>>>>>> experimento 1
